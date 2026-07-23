@@ -67,7 +67,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mattz-337/Mattz-337/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Mattz-337/Mattz-337/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
