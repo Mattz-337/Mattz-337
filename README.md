@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Matthew Zeigen Paulk</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+Student;Building+Production+Software;React+•+Node.js+•+TypeScript+•+PostgreSQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Computer+Science+Student;Building+Production+Software;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mattz-337&label=Profile%20Views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/Mattz-337?style=flat&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Mattz-337?style=flat&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=Mattz-337&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Mattz-337?style=flat&logo=github" />
+  <img src="https://img.shields.io/github/stars/Mattz-337?style=flat&logo=github" />
 </p>
 
 ---
