@@ -1,52 +1,52 @@
 <h1 align="center">Hi 👋, I'm Matthew Zeigen Paulk</h1>
-<h3 align="center">Full Stack Developer | Computer Science Student | Building Real-World Software</h3>
 
 <p align="center">
-  <a href="https://github.com/Mattz-337">
-    <img src="https://komarev.com/ghpvc/?username=Mattz-337&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Computer+Science+Student;Building+Production+Software;React+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mattz-337&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 First Year Computer Science Student
 - 💻 Passionate Full Stack Developer
-- 🛒 Currently building a complete Grocery E-Commerce Platform
-- 🌱 Learning Backend Architecture, System Design & Cloud
-- ⚡ Love building real-world software that people can actually use
+- 🛒 Building a complete Grocery E-Commerce Platform (ESM)
+- 🌱 Learning System Design, Docker & AWS
+- ⚡ Love building software that solves real-world problems
 
 ---
 
+# 🛠 Tech Stack
 
-## 🛠️ Tech Stack
-
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,supabase" />
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mattz-337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mattz-337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattz-337&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -70,23 +70,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mattz-337&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=Mattz-337&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mattz-337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -102,27 +92,23 @@
 
 A complete production-ready grocery e-commerce ecosystem.
 
-### Features
+### ✨ Features
 
-- 🛍️ Customer Website
+- 🛍 Customer Website
 - 👨‍💼 Admin Dashboard
 - 👨‍💻 Staff Panel
-- 🚚 Delivery App
+- 🚚 Delivery Application
 - 📦 Order Management
 - 📍 Delivery Tracking
 - 💬 WhatsApp Notifications
-- 🔐 Secure Authentication
+- 🔐 Authentication
 - 📊 Analytics Dashboard
 
-### Built With
+### 🏗 Built With
 
-- React
-- TypeScript
-- Node.js
-- Express
-- PostgreSQL
-- Supabase
-- Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,supabase,tailwind" />
+</p>
 
 ---
 
@@ -132,20 +118,20 @@ A complete production-ready grocery e-commerce ecosystem.
 - AWS
 - System Design
 - Microservices
-- Advanced PostgreSQL
 - CI/CD
+- Advanced PostgreSQL
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="mailto:mattz37.code@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
