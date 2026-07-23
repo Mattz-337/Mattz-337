@@ -19,12 +19,19 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css" />
+</p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### Backend
@@ -51,7 +58,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mattz-337&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mattz-337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mattz-337&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -63,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mattz-337&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mattz-337&theme=tokyo-night"/>
 
 </p>
 
@@ -73,7 +80,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mattz-337&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mattz-337&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </p>
 
